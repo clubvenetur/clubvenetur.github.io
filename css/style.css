@@ -30,9 +30,10 @@ a:hover{
 hr{
 	color: #ad8439;
 }
-li{
-	list-style: none;
+ul{
+	list-style:none;
 }
+
 
 
 /*Bootstraps Styles*/
